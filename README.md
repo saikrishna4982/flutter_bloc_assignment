@@ -1,4 +1,4 @@
-# flutter Bloc App
+# Flutter Bloc App
 Devloped a Flutter App Using Bloc pattern. Here we are using [https://jsonplaceholder.typicode.com/posts] to display our Posts.
 
 ### Project Requirements

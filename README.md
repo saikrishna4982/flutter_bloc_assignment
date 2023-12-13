@@ -43,5 +43,4 @@ In this app we are displaying the posts from an API using a ListView.The UI Func
 Added a Pull-Down-To-Refresh functionality
 
 ### App Demo
-Here's How Application Looks Like
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1pcHViaWdkMHpuZ3BtcXR3Z280NjV3Y3cwbHhlcW9hM2g3dmdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arJUJc1KuFTduXVgpV/giphy.gif)

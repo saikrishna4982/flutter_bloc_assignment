@@ -33,11 +33,15 @@ Make Sure That You Have The Following Requirements Before Running The Project.
 - Now Open The  Terminal and Check if The Present Working Directory is Project Folder or Not, If not Change Path to Project Directory
 - In Terminal Type ```flutter pub get``` and Wait Until All The Dependencies are Resolved.
 - Now Make Sure That You Have Atleast One Android Virtual Device Opened
-- In Terminal Type ```flutter run``` you Can See List Of Emulators To Run The Project Select Your Desired Emulator
+- In Terminal Type ```flutter run```
 - The Application Will Be Installed On The Emulator, Open The Emulator To See The Application
 
 ### About Application
 In this app we are displaying the posts from an API using a ListView.The UI Functionality is Mentioned in ```UI/home_page.dart```.The App Uses Bloc Architecure To Manage The State Of The Application The Bloc Implementation is Mentioned in ```bloc Folder```
 
 ### Special Feature
-Added a Pull-Down-Refresh functionality
+Added a Pull-Down-To-Refresh functionality
+
+### App Demo
+Here's How Application Looks Like
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1pcHViaWdkMHpuZ3BtcXR3Z280NjV3Y3cwbHhlcW9hM2g3dmdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/arJUJc1KuFTduXVgpV/giphy.gif)

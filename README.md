@@ -35,3 +35,9 @@ Make Sure That You Have The Following Requirements Before Running The Project.
 - Now Make Sure That You Have Atleast One Android Virtual Device Opened
 - In Terminal Type ```flutter run``` you Can See List Of Emulators To Run The Project Select Your Desired Emulator
 - The Application Will Be Installed On The Emulator, Open The Emulator To See The Application
+
+### About Application
+In this app we are displaying the posts from an API using a ListView.The UI Functionality is Mentioned in ```UI/home_page.dart```.The App Uses Bloc Architecure To Manage The State Of The Application The Bloc Implementation is Mentioned in ```bloc Folder```
+
+### Special Feature
+Added a Pull-Down-Refresh functionality
